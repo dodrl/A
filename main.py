@@ -6,4 +6,3 @@ print(c)
 yewon_age=20
 hyun_age=30
 t = yewon_age - hyun_age
-print(t)
